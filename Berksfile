@@ -1,3 +1,3 @@
 source "https://supermarket.getchef.com"
 
-cookbook 'mongodb'
+cookbook 'mongodb3'
